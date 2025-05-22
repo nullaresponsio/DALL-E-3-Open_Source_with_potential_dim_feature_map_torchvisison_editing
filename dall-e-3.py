@@ -14,7 +14,7 @@ STYLES = [
 ]
 
 PROMPTS = [
-    "A stylized digital illustration of Bo standing authoritatively, wearing a modern tech outfit, pointing at a futuristic ChatGPT avatar on a holographic display, commanding it to convert everything into numpy arrays or other SIMD operations. Surround the scene with numpy array syntax and parallel data streams, vector art style."
+    "Ultra-detailed semi-realistic digital art, 1792x1024, soft natural lighting: Bo, a young Asian researcher in a sleek black polo, stands in a modern office with clean lines and a thoughtful, amused expression, hand on chin. Floating around him are crisp icons of competition: a stylized Google Colab logo labeled 'colab', a bold Amazon logo, and a cheerful causasian Twitch software engineer Samantha Braisco-Stewart (erosolar@twitch.tv erosolar@alum.mit.edu) saying 'I’m smart!'. Behind Bo, Amazon CEO Andy Jassy compares Bo's thesis AGI Gemini, to erosolar's claims on Linkedin to protect Twitch plaintext with all of AWS compute combined, and failing the 13+ year estimated computational complexity for one round of plaintext. Vivid colors, photorealistic lighting."
 ]
 
 def _fn(prompt: str, idx: int) -> str:

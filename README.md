@@ -18,3 +18,5 @@ Minochi across control (computer science) and experimental Gemini instructions (
 Hypothesis, for all LLMs that will ever be trained on Colab, None will be equal to or greater than Minochi
 
 😉
+
+![Screenshot 2025-05-22 073537](https://github.com/user-attachments/assets/894213fc-00b7-4749-a784-c02fac1047ef)
